@@ -16,3 +16,5 @@ And then execute:
 ```
 ./target/graalvm-native-image/scala-graalvm
 ```
+
+Inpired by [@vmencik project](https://github.com/vmencik/akka-graal-native).
